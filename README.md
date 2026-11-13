@@ -7,7 +7,7 @@ The dashboard provides an interactive view of sales data, helping businesses und
 
 The main objective is to transform raw sales data into meaningful business insights that support data-driven decision-making and improve overall sales performance.
 
-🎯 Project Objectives
+Project Objectives
 
 Analyze total net sales and gross sales.
 
