@@ -1,5 +1,5 @@
 #  Perfume Sales Analysis Dashboard
- Project Overview
+ Project Overview:-
 
 The Perfume Sales Analysis Dashboard is a data analytics project developed to analyze perfume sales performance, revenue generation, customer purchasing behavior, brand performance, and branch-wise sales distribution.
 
@@ -7,7 +7,7 @@ The dashboard provides an interactive view of sales data, helping businesses und
 
 The main objective is to transform raw sales data into meaningful business insights that support data-driven decision-making and improve overall sales performance.
 
-Project Objectives
+Project Objectives:-
 
 Analyze total net sales and gross sales.
 
